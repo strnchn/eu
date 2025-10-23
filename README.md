@@ -1,15 +1,16 @@
-```markdown
 # Olá, eu sou o Leonardo Fonseca! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RzZzJtZzU1dG1uY3J6cDY5d3g5a3Jzb2Q1c3c3a3A0bXJzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6i6a1v/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/qgQUggACpCjo6i6a1v/giphy.gif" width="100">
 </p>
 
 ## 👨‍💻 Sobre mim
 
-Sou um Analista de Dados apaixonado por tecnologia e em constante evolução. Atualmente, trabalho na **Provver Controladoria**, onde aplico minhas habilidades analíticas para transformar dados em insights valiosos. Minha jornada acadêmica no **Centro Universitário da Serra Gaúcha (FSG)** tem sido fundamental para expandir meus horizontes e solidificar minha base de conhecimento.
+Sou um Analista de Dados apaixonado por tecnologia e em constante evolução. Atualmente, trabalho na **Provver Controladoria**, onde aplico minhas habilidades analíticas para transformar dados em insights valiosos. Minha jornada acadêmica no **Centro Universitário da Serra Gaúcha (FSG )** tem sido fundamental para expandir meus horizontes e solidificar minha base de conhecimento.
 
 Recentemente, descobri um grande interesse pela área de **Segurança da Informação** e estou direcionando minha carreira para a cibersegurança. Acredito que a combinação das minhas habilidades em análise de dados com os princípios de segurança pode criar soluções inovadoras e robustas para os desafios do mundo digital. Estou animado para explorar as oportunidades que essa transição de carreira trará e contribuir para um ambiente digital mais seguro.
+
+---
 
 ## 🚀 Habilidades
 
@@ -31,6 +32,8 @@ Recentemente, descobri um grande interesse pela área de **Segurança da Informa
   </a>
 </p>
 
+---
+
 ## 📖 O que estou estudando
 
 Atualmente, estou focado em aprofundar meus conhecimentos em Segurança da Informação, com os seguintes tópicos em meu radar:
@@ -38,9 +41,13 @@ Atualmente, estou focado em aprofundar meus conhecimentos em Segurança da Infor
 -   **Ethical Hacking e Pentesting:** Para entender as vulnerabilidades e como protegê-las.
 -   **Segurança de Redes:** Para garantir a integridade e confidencialidade das comunicações.
 -   **Análise de Malware:** Para identificar e mitigar ameaças.
--   **Governança, Risco e Conformidade (GRC):** Para alinhar as práticas de segurança com os objetivos de negócio.
+-   **Governança, Risco e Conformidade (GRC ):** Para alinhar as práticas de segurança com os objetivos de negócio.
+
+---
 
 ## 📊 GitHub Stats
+
+**Atenção:** Lembre-se de substituir `SEU_USUARIO_AQUI` pelo seu nome de usuário do GitHub (`strnchn`) nos links abaixo para que as estatísticas funcionem!
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -51,9 +58,11 @@ Atualmente, estou focado em aprofundar meus conhecimentos em Segurança da Infor
   </a>
 </p>
 
+---
+
 ## 📫 Vamos nos conectar
 
-Estou sempre aberto a novas conexões, aprendizados e oportunidades. Vamos conversar!
+**Atenção:** Substitua os links `seu-linkedin-aqui` e `seu-email-aqui@example.com` pelos seus dados reais.
 
 <p align="left">
   <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
@@ -65,4 +74,3 @@ Estou sempre aberto a novas conexões, aprendizados e oportunidades. Vamos conve
 </p>
 
 > "A busca pelo conhecimento é a jornada que nos transforma. A cada linha de código, a cada dado analisado e a cada ameaça neutralizada, estamos construindo um futuro mais seguro e inteligente."
-```
