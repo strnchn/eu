@@ -1,7 +1,7 @@
 # Olá, eu sou o Leonardo Fonseca! 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb213NXg1YmMyZGkyaXRvYnBuYTM4MHNiYnNnbWVoNzRvajU4OGc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zsc4dATQgcBmU/giphy.giff" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM3NW9xM2lmaGpsZ3I5MThuenB5MWdoNXZjbWt4cHB3aTU1ZHozcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qEbropHw3JomCHe/giphy.gif" width="100">
 </p>
 
 ## 👨‍💻 Sobre mim
